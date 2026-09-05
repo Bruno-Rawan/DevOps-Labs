@@ -14,3 +14,9 @@ Repositório dedicado aos meus estudos e laboratórios práticos de DevOps.
 ## Objetivo
 
 Documentar minha evolução em DevOps através de exercícios, configurações e projetos práticos.
+
+### Adicionando Conteudo Remotamente
+
+----
+
+## Como Trabalhar com o Git
